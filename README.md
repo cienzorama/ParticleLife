@@ -10,6 +10,7 @@ https://cienzorama.github.io/ParticleLife/
 - Leap-Frog numerical integrator.
 - Periodic boundary conditions.
 - Rules change randomly every 300 frames.
+- Simple representation of interaction rules.
 - For now, particle type are fixed in 6 and particle number is 1500. In future updates these parameters will be modified during the simulation.
 
 
